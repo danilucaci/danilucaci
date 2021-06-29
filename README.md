@@ -27,8 +27,6 @@ I’m always looking for new challenges and opportunities that can help me conti
 <p align="left">
 <a href="https://twitter.com/danilucaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danilucaci" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danilucaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilucaci" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/danilucaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="danilucaci" height="30" width="40" /></a>
-<a href="https://codesandbox.com/danilucaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="danilucaci" height="30" width="40" /></a>
 <a href="https://dribbble.com/danilucaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="danilucaci" height="30" width="40" /></a>
 </p>
 
