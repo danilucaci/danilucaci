@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dani Lucaci</h1>
-<h3 align="center">👾Front-End Developer | 💎Product Designer | ⏳#perfmatters | 📷 Sometimes a photographer</h3>
+<h3 align="center">👾 Front-End Developer | 💎 Product Designer | ⏳ #perfmatters | 📷 Sometimes a photographer</h3>
 
 <p align="left">
 As a front end developer, I strive to create digital experiences that are based on the understanding of the pain points and needs of their users to create products that have a strong focus on accessibility, performance and user interaction.
