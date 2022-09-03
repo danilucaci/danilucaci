@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dani Lucaci</h1>
-<h3 align="center">👾 Front-End Developer | 💎 Product Designer | ⏳ #perfmatters | 📷 Sometimes a photographer</h3>
+<h3 align="center">👾 Front-End Developer | 💎 Ex Product Designer | ⏳ #perfmatters | 📷 Sometimes a photographer</h3>
 
 <p align="left">
 As a front end developer, I strive to create digital experiences that are based on the understanding of the pain points and needs of their users to create products that have a strong focus on accessibility, performance and user interaction.
 
 I enjoy translating ideas and products into responsive, interactive experiences in HTML, CSS, and JavaScript with clean and semantic code to develop modern websites and apps using the latest front-end techniques and tools.
 
-I’m always looking for new challenges and opportunities that can help me continue to become a better designer, developer, and person overall. I have a passion for self-learning and improving each day to challenge my skills and to become better at what I do.
+I’m always looking for new challenges and opportunities that can help me continue to become a developer and person overall. I have a passion for self-learning and improving each day to challenge my skills and to become better at what I do.
 </p>
 
-- 🌱 I’m currently learning **Next.js, Typescript**
-
-- 🤝 I’m looking for help with **React & Next**
+- 🌱 I’m currently working with **Next.js & Typescript**
 
 - 👨‍💻 All of my projects are available at [https://www.danilucaci.com](https://www.danilucaci.com)
 
